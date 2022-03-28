@@ -1,0 +1,18 @@
+body {
+  background-color: aquamarine;
+}
+.calculater-body {
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: white;
+  width: 70%;
+}
+.card-secundary {
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: darkgreen;
+}
+.btn-classic {
+  border: 1px solid;
+  border-radius: 5px;
+}
